@@ -17,3 +17,5 @@ C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\Debug\netstandard2.0\YoutubeRepoTwo.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\Debug\netstandard2.0\ref\YoutubeRepoTwo.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\Debug\netstandard2.0\YoutubeRepoTwo.pdb
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\Debug\netstandard2.0\Views\AccessApp\LoginPage.xaml.g.cs
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\obj\Debug\netstandard2.0\Views\AccessApp\RegisterPage.xaml.g.cs
