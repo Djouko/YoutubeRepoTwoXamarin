@@ -1,9 +1,12 @@
-﻿using GalaSoft.MvvmLight.Command;
+﻿using Firebase.Auth;
+using GalaSoft.MvvmLight.Command;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using YoutubeRepoTwo.Models;
 using YoutubeRepoTwo.Views.Tabbed;
@@ -86,33 +89,33 @@ namespace YoutubeRepoTwo.ViewModels
                 return;
             }
 
-            this.IsVisibleTxt = true;
-            this.IsRunningTxt = true;
-            this.IsEnabledTxt = false;
+            string WebAPIkey = "AIzaSyBJ7GurFSPSpXxhwoJ93KU68Ia6rXIMZb4";
 
-            await Task.Delay(20);
 
-            List<UserModel> e = App.Database.GetUsersValidate(email, password).Result;
-
-            if (e.Count == 0)
+            var authProvider = new FirebaseAuthProvider(new FirebaseConfig(WebAPIkey));
+            try
             {
-                await Application.Current.MainPage.DisplayAlert(
-                  "Error",
-                  "Email or Password Incorrect.",
-                  "Accept");
+                var auth = await authProvider.SignInWithEmailAndPasswordAsync(EmailTxt.ToString(), PasswordTxt.ToString());
+                var content = await auth.GetFreshAuthAsync();
+                var serializedcontnet = JsonConvert.SerializeObject(content);
 
-                this.IsRunningTxt = false;
-                this.IsVisibleTxt = false;
-                this.IsEnabledTxt = true;
-            }
-            else if (e.Count > 0)
-            {
+                Preferences.Set("MyFirebaseRefreshToken", serializedcontnet);
+
+                //Puede navegar al tener autorizacion
                 await Application.Current.MainPage.Navigation.PushAsync(new ContainerTabbedPags());
+                this.IsRunningTxt = false;
+                this.IsVisibleTxt = false;
+                this.IsEnabledTxt = true;
+            }
+            catch (Exception ex)
+            {
+                await App.Current.MainPage.DisplayAlert("Alert", "Invalid useremail or password", "OK");
 
                 this.IsRunningTxt = false;
                 this.IsVisibleTxt = false;
                 this.IsEnabledTxt = true;
             }
+
         }
         #endregion
 

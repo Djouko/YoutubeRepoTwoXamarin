@@ -1,4 +1,5 @@
-﻿using GalaSoft.MvvmLight.Command;
+﻿using Firebase.Auth;
+using GalaSoft.MvvmLight.Command;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -78,6 +79,7 @@ namespace YoutubeRepoTwo.ViewModels
         #endregion
 
         #region Methods
+        #region Methods
         private async void RegisterMethod()
         {
             if (string.IsNullOrEmpty(this.email))
@@ -98,48 +100,27 @@ namespace YoutubeRepoTwo.ViewModels
                 return;
             }
 
-            if (string.IsNullOrEmpty(this.name))
+            string WebAPIkey = "AIzaSyBJ7GurFSPSpXxhwoJ93KU68Ia6rXIMZb4";
+
+            try
             {
-                await Application.Current.MainPage.DisplayAlert(
-                    "Error",
-                    "You must enter a name.",
-                    "Accept");
-                return;
+                var authProvider = new FirebaseAuthProvider(new FirebaseConfig(WebAPIkey));
+                var auth = await authProvider.CreateUserWithEmailAndPasswordAsync(EmailTxt.ToString(), PasswordTxt.ToString());
+                string gettoken = auth.FirebaseToken;
+
+                await Application.Current.MainPage.DisplayAlert("Successfully", "Welcome " + name.ToString() + " to your app", "Ok");
+                this.IsRunningTxt = false;
+                this.IsVisibleTxt = false;
+                this.IsEnabledTxt = true;
+                await Application.Current.MainPage.Navigation.PushAsync(new LoginPage());
             }
-            if (string.IsNullOrEmpty(this.age))
+            catch (Exception ex)
             {
-                await Application.Current.MainPage.DisplayAlert(
-                    "Error",
-                    "You must enter an age.",
-                    "Accept");
-                return;
+                
             }
-
-            this.IsVisibleTxt = true;
-            this.IsRunningTxt = true;
-            this.IsEnabledTxt = false;
-
-
-            var user = new UserModel
-            {
-                EmailField = email,
-                PasswordField = password,
-                NamesField = name,
-                AgeField = age,
-                Creation_Date = DateTime.Now,
-            };
-
-            await App.Database.SaveUserModelAsync(user);
-
-            await Application.Current.MainPage.DisplayAlert("Successfully", "Welcome " + name.ToString() + " to your app", "Ok");
-
-            this.IsRunningTxt = false;
-            this.IsVisibleTxt = false;
-            this.IsEnabledTxt = true;
-
-            await Application.Current.MainPage.Navigation.PushAsync(new LoginPage());
-
         }
+
+        #endregion
         #endregion
 
         #region Constructor
