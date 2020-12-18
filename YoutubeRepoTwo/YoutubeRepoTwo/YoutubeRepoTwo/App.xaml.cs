@@ -4,6 +4,7 @@ using System.IO;
 using YoutubeRepoTwo.Database;
 using System;
 using YoutubeRepoTwo.Views.AccessApp;
+using YoutubeRepoTwo.Views.DynamicListView;
 
 namespace YoutubeRepoTwo
 {
@@ -30,7 +31,7 @@ namespace YoutubeRepoTwo
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new RegisterPage());
+            MainPage = new NavigationPage(new ListViewPage());
         }
 
         protected override void OnStart()
