@@ -10,7 +10,10 @@
                     ItemsSource="{Binding ListViewSource}"
                     HasUnevenRows="True"
                     IsPullToRefreshEnabled="True"
-                    IsRefreshing="{Binding IsRefreshing}">
+                    IsRefreshing="{Binding IsRefreshing}"
+                    x:Name="ListViewName"
+                    ItemSelected="ListViewName_ItemSelected"
+                    >
                     
                     <ListView.ItemTemplate >
                         <DataTemplate  >

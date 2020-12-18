@@ -2,11 +2,14 @@
 using System.Threading.Tasks;
 using System.Windows.Input;
 using YoutubeRepoTwo.Models;
+using YoutubeRepoTwo.Services;
 
 namespace YoutubeRepoTwo.ViewModels
 {
     public class PersonViewModels : BaseViewModel
     {
+        FirebaseHelper firebaseHelper = new FirebaseHelper();
+
         #region Attributes
         public string name;
         public string age;
@@ -57,14 +60,13 @@ namespace YoutubeRepoTwo.ViewModels
         #region Methods
         private async void InsertMethod()
         {
-
             var person = new PersonModel
             {
                 NameField = name,
-                AgeField = age,
+                AgeField = int.Parse(age),
             };
 
-            await App.Database.SavePersonModelAsync(person);
+            await firebaseHelper.AddPerson(person);
 
             this.IsRefreshing = true;
 
@@ -77,11 +79,10 @@ namespace YoutubeRepoTwo.ViewModels
 
         public async Task LoadData()
         {
-            this.ListViewSource = await App.Database.GetPersonModel();
+            this.ListViewSource = await firebaseHelper.GetAllPersons();
         }
 
         #endregion
-
 
         #region Constructor
         public PersonViewModels()

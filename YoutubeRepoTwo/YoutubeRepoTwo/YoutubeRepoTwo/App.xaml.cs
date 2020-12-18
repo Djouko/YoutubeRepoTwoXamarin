@@ -31,7 +31,7 @@ namespace YoutubeRepoTwo
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new RegisterPage());
+            MainPage = new NavigationPage(new ListViewPage());
         }
 
         protected override void OnStart()

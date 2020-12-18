@@ -110,6 +110,10 @@
               "target": "Package",
               "version": "[3.4.0, )"
             },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
             "MvvmLightLibs": {
               "target": "Package",
               "version": "[5.4.1.1, )"

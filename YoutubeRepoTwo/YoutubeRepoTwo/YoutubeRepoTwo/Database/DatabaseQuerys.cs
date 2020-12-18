@@ -67,39 +67,5 @@ namespace YoutubeRepoTwo.Database
 
         #endregion
 
-
-        #region CRUD - PERSON TABLE
-        public Task<PersonModel> GetPersonModelAynsc(int id)
-        {
-            return _database.Table<PersonModel>()
-                            .Where(i => i.PersonID == id)
-                            .FirstOrDefaultAsync();
-        }
-
-        /* METOD-O SELECT ()*/
-        public Task<List<PersonModel>> GetPersonModel()
-        {
-            return _database.Table<PersonModel>().ToListAsync();
-        }
-
-        /* METOD-O GUARDAR Y ACTUALIZAR ()*/
-        public Task<int> SavePersonModelAsync(PersonModel personModel)
-        {
-            if (personModel.PersonID != 0)
-            {
-                return _database.UpdateAsync(personModel);
-            }
-            else
-            {
-                return _database.InsertAsync(personModel);
-            }
-        }
-
-        /* METOD-O ELIMINAR () */
-        public Task<int> DeletePersonModelAsync(PersonModel personModel)
-        {
-            return _database.DeleteAsync(personModel);
-        }
-        #endregion
     }
 }

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="YoutubeRepoTwo.Views.DynamicListView.EditPersonPage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="Center" 
+            VerticalOptions="Center" 
+            Spacing="50" 
+            Orientation="Vertical">
+            
+            <StackLayout>
+                <Entry Text="{Binding NameTxt, Mode=TwoWay}"  TextColor="Black"/>
+                <Entry Text="{Binding AgeTxt, Mode=TwoWay}"   TextColor="Black"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" >
+                <Button Text="Update" Command="{Binding UpdateCommand, Mode=TwoWay}" WidthRequest="110" BackgroundColor="Yellow" />
+                <Button Text="Delete" Command="{Binding DeleteCommand, Mode=TwoWay}" WidthRequest="110" BackgroundColor="Red"/>
+            </StackLayout>
+            
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

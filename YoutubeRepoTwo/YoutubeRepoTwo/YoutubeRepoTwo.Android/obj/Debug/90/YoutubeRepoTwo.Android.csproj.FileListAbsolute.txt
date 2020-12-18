@@ -59,6 +59,7 @@ C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Andr
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\resolvedassemblies.hash
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\CommonServiceLocator.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Firebase.Auth.dll
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Firebase.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\GalaSoft.MvvmLight.dll
@@ -68,6 +69,7 @@ C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Andr
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\GalaSoft.MvvmLight.Platform.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\LiteDB.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Mono.Android.pdb
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\Mono.Security.dll
@@ -112,11 +114,13 @@ C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Andr
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.pdb
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Reactive.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Reflection.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.Primitives.dll
