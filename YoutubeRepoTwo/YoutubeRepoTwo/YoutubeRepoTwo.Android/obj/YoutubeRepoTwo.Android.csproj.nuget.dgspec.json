@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj": {}
+    "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj": {}
   },
   "projects": {
-    "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj": {
+    "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
+        "projectUniqueName": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
         "projectName": "YoutubeRepoTwo.Android",
-        "projectPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
-        "packagesPath": "C:\\Users\\User-Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\obj\\",
+        "projectPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User-Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
-                "projectPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj"
+              "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
+                "projectPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj"
               }
             }
           }
@@ -66,20 +66,20 @@
         }
       }
     },
-    "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
+    "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj",
+        "projectUniqueName": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj",
         "projectName": "YoutubeRepoTwo",
-        "projectPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj",
-        "packagesPath": "C:\\Users\\User-Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\obj\\",
+        "projectPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User-Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -151,7 +151,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

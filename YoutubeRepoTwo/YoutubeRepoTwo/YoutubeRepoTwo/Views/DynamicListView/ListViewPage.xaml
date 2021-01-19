@@ -5,6 +5,12 @@
              BackgroundColor="White">
     <ContentPage.Content>
         <StackLayout>
+            <StackLayout Grid.Row="0" WidthRequest="275"   HeightRequest="20"   HorizontalOptions="Center" Margin="0,30,0,30">
+                <Frame Padding="0,4,0,4" HasShadow="True" CornerRadius="25" >
+                    <SearchBar Placeholder="Search by name..." Keyboard="Chat" TextChanged="SearchBar_TextChanged" MaxLength="20" FontSize="15" HeightRequest="35" />
+                </Frame>
+            </StackLayout>
+            
             <StackLayout>
                 <ListView
                     ItemsSource="{Binding ListViewSource}"
@@ -13,6 +19,7 @@
                     IsRefreshing="{Binding IsRefreshing}"
                     x:Name="ListViewName"
                     ItemSelected="ListViewName_ItemSelected"
+                    
                     >
                     
                     <ListView.ItemTemplate >

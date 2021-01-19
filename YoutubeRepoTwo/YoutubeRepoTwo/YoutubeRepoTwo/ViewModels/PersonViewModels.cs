@@ -1,4 +1,6 @@
 ﻿using GalaSoft.MvvmLight.Command;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using YoutubeRepoTwo.Models;
@@ -84,10 +86,29 @@ namespace YoutubeRepoTwo.ViewModels
 
         #endregion
 
+        #region .
+        public ObservableCollection<PersonModel> IngredientsCollection = new ObservableCollection<PersonModel>();
+
+        private async Task TestListViewBindingAsync()
+        {
+            var Ingredients = new List<PersonModel>();
+
+            {
+                Ingredients = await firebaseHelper.GetAllPersons();
+            }
+            foreach (var Ingredient in Ingredients)
+            {
+                IngredientsCollection.Add(Ingredient);
+            }
+
+        }
+        #endregion
         #region Constructor
         public PersonViewModels()
         {
             LoadData();
+            TestListViewBindingAsync();
+
         }
         #endregion
     }

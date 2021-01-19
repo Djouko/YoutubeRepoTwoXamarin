@@ -2713,24 +2713,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User-Pc\\.nuget\\packages\\": {},
+    "C:\\Users\\brian\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
+      "projectUniqueName": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
       "projectName": "YoutubeRepoTwo.Android",
-      "projectPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
-      "packagesPath": "C:\\Users\\User-Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\obj\\",
+      "projectPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\YoutubeRepoTwo.Android.csproj",
+      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+      "outputPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\User-Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2744,8 +2744,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
-              "projectPath": "C:\\Programacion\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj"
+            "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj": {
+              "projectPath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj"
             }
           }
         }

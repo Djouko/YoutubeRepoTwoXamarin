@@ -26,7 +26,6 @@ namespace YoutubeRepoTwo.Database
 
 
         #region CRUD - USER TABLE
-
         /* METOD-O SELECT SEARCH BAR()*/
         public Task<UserModel> GetUserModelAynsc(int id)
         {
