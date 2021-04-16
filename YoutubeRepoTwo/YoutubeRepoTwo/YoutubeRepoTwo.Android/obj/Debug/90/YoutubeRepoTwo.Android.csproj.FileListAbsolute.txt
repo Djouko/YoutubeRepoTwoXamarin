@@ -532,6 +532,9 @@ C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Andr
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Programacion\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\build.props
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\adb.props
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\YoutubeRepoTwo.Android.dll
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\YoutubeRepoTwo.Android.pdb
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\com.companyname.youtuberepotwo.apk
@@ -541,9 +544,6 @@ C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\com.companyname.youtuberepotwo-Signed.apk.idsig
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\YoutubeRepoTwo.dll
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\bin\Debug\YoutubeRepoTwo.pdb
-C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
-C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\build.props
-C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\adb.props
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\YoutubeRepoTwo.Android.csprojAssemblyReference.cache
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
@@ -585,10 +585,13 @@ C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\logo.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\icon_home.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\icon_todolist.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\icon_transfer.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\icon_user.png
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\__img___rectangle_533.png
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\res\drawable\__img___rectangle_533_ek1.png
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\uploadflags.txt
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\resolvedassemblies.hash
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\assets\CommonServiceLocator.dll
@@ -966,6 +969,7 @@ C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
@@ -973,6 +977,7 @@ C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
 C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Debug\90\android\src\crc64d1fe55f9344a199e\MainActivity.java

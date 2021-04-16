@@ -1,0 +1,105 @@
+<ContentPage x:Class="YoutubeRepoTwo.Views.AdobeDesign.get_started"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="get_started"
+             Background="white">
+	<ContentPage.Content>
+        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" RowSpacing="25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+
+
+            <AbsoluteLayout x:Name="images"
+				 AbsoluteLayout.LayoutBounds="79,44,208,311"
+                            Grid.Row="1" Grid.Column="0"
+                            HorizontalOptions="CenterAndExpand"
+				 >
+
+				<Label x:Name="descubre_toda_tu_ciudad_en_minutos_"
+					FontFamily="Montserrat"
+					HorizontalTextAlignment="Center"
+					FontSize="16"
+					TextColor="#767676"
+					AbsoluteLayout.LayoutBounds="-3,247,208,71"
+					Text="Descubre toda tu ciudad en minutos."
+				 />
+				<Label x:Name="empezar"
+					FontFamily="Montserrat"
+					FontAttributes="Bold"
+					HorizontalTextAlignment="Center"
+					FontSize="26"
+					TextColor="#352641"
+					AbsoluteLayout.LayoutBounds="47,194,107,53"
+					Text="Empezar"
+				 />
+				<Image x:Name="logo"
+					Source="logo.png"
+					AbsoluteLayout.LayoutBounds="21,0,167,162" />
+				<Label x:Name="idealplace"
+					FontFamily="Montserrat"
+					FontAttributes="Bold"
+					HorizontalTextAlignment="Center"
+					FontSize="28"
+					TextColor="#ffba78"
+					AbsoluteLayout.LayoutBounds="32,139,135,57"
+					Text="IdealPlace"
+				 />
+			</AbsoluteLayout>
+
+
+			<AbsoluteLayout x:Name="buttonr"
+				 AbsoluteLayout.LayoutBounds="31,473,303,48"
+                            Grid.Row="3" Grid.Column="0"
+                             HorizontalOptions="CenterAndExpand"
+				 >
+
+				<Image x:Name="__img___rectangle_533"
+					Source="__img___rectangle_533.png"
+					AbsoluteLayout.LayoutBounds="-9,-6,321,66" />
+				<Label x:Name="registrarse"
+					FontFamily="Montserrat"
+					FontAttributes="Bold"
+					HorizontalTextAlignment="Center"
+					FontSize="15"
+					TextColor="#ffba78"
+					AbsoluteLayout.LayoutBounds="102,12,105,30.5"
+					Text="REGISTRARSE"
+				 />
+			</AbsoluteLayout>
+
+
+			<AbsoluteLayout x:Name="buttoni"
+				 AbsoluteLayout.LayoutBounds="31,403,303,48"
+                           Grid.Row="2" Grid.Column="0"
+                             HorizontalOptions="CenterAndExpand"
+				 >
+
+				<Image x:Name="__img___rectangle_533_ek1"
+					Source="__img___rectangle_533_ek1.png"
+					AbsoluteLayout.LayoutBounds="-9,-6,321,66" />
+				<Label x:Name="iniciar_sesion"
+					FontFamily="Montserrat"
+					FontAttributes="Bold"
+					HorizontalTextAlignment="Center"
+					FontSize="15"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="93,12,111,30.5"
+					Text="INICIAR SESION"
+				 />
+			</AbsoluteLayout>
+
+            </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
