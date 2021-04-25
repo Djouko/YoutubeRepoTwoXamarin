@@ -224,7 +224,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1821": {
+      "Xamarin.Forms/4.8.0.1269": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -354,7 +354,7 @@
           "MvvmLightLibs": "5.4.1.1",
           "Newtonsoft.Json": "13.0.1",
           "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "4.8.0.1821",
+          "Xamarin.Forms": "4.8.0.1269",
           "sqlite-net-pcl": "1.7.335"
         },
         "compile": {
@@ -588,7 +588,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1821": {
+      "Xamarin.Forms/4.8.0.1269": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -718,7 +718,7 @@
           "MvvmLightLibs": "5.4.1.1",
           "Newtonsoft.Json": "13.0.1",
           "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "4.8.0.1821",
+          "Xamarin.Forms": "4.8.0.1269",
           "sqlite-net-pcl": "1.7.335"
         },
         "compile": {
@@ -952,7 +952,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1821": {
+      "Xamarin.Forms/4.8.0.1269": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1082,7 +1082,7 @@
           "MvvmLightLibs": "5.4.1.1",
           "Newtonsoft.Json": "13.0.1",
           "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "4.8.0.1821",
+          "Xamarin.Forms": "4.8.0.1269",
           "sqlite-net-pcl": "1.7.335"
         },
         "compile": {
@@ -1316,7 +1316,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1821": {
+      "Xamarin.Forms/4.8.0.1269": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1446,7 +1446,7 @@
           "MvvmLightLibs": "5.4.1.1",
           "Newtonsoft.Json": "13.0.1",
           "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "4.8.0.1821",
+          "Xamarin.Forms": "4.8.0.1269",
           "sqlite-net-pcl": "1.7.335"
         },
         "compile": {
@@ -2106,10 +2106,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.8.0.1821": {
-      "sha512": "3e/5DwE/bExRLtM1tA3iI9E6TCnIF+e9+lINgwLOUs0g49ebFmQiNDXBKb06jmqqV4VyNaUGZqs0bI13ruv8bQ==",
+    "Xamarin.Forms/4.8.0.1269": {
+      "sha512": "3UFTlfJvF9l8HB+gWVmYUEVRSPU+c3H0G/h09RVG8/P5i/QRiDBg/YHEGfPR3HNuWlJ9S9TgZjrFruTUS1ZYiQ==",
       "type": "package",
-      "path": "xamarin.forms/4.8.0.1821",
+      "path": "xamarin.forms/4.8.0.1269",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2375,7 +2375,6 @@
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Resources.xaml",
-        "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Shell/ShellPageWrapper.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xaml",
@@ -2408,7 +2407,6 @@
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Resources.xaml",
-        "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Shell/ShellPageWrapper.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
@@ -2418,7 +2416,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.8.0.1821.nupkg.sha512",
+        "xamarin.forms.4.8.0.1269.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -2433,7 +2431,7 @@
       "MvvmLightLibs >= 5.4.1.1",
       "Newtonsoft.Json >= 13.0.1",
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 4.8.0.1821",
+      "Xamarin.Forms >= 4.8.0.1269",
       "YoutubeRepoTwo >= 1.0.0",
       "sqlite-net-pcl >= 1.7.335"
     ]
@@ -2494,7 +2492,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.8.0.1821, )"
+            "version": "[4.8.0.1269, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",

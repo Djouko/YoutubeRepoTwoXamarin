@@ -22,6 +22,7 @@ background;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
 cache-path;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Release\90\res\values\colors.xml
+com.felipecsl.gifimageview.library.GifImageView;obj\Release\90\res\layout\splashscreen.xml
 declare-styleable;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\41\jl\res\values\attrs.xml
 external-cache-path;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -32,6 +33,7 @@ item;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.An
 item;obj\Release\90\res\values\styles.xml
 LinearLayout;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\41\jl\res\layout\bottomtablayout.xml
 paths;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Release\90\res\layout\splashscreen.xml
 resources;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\41\jl\res\values\attrs.xml
 resources;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\41\jl\res\values\strings.xml
 resources;C:\XFProject\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo\YoutubeRepoTwo.Android\obj\Release\90\lp\41\jl\res\values\styles.xml

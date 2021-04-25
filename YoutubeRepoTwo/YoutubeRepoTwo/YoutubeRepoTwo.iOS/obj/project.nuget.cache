@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U0fnfXLJlvr97olPmJhRW0M6LHYs7TMgD7uhaKKa0MQGmDqht4z7HnEEhEHsP/eRDCvQMRAtsJrwFnYgsIE4Lw==",
+  "dgSpecHash": "qAF+es9lqFLrL6Bdkiwf+9FbshDcbig3AW2fMtd+EnYiaqMbZ+u2ZFF3weMNJ7TT7HWkY6jFr4m5FT8+8o9Jpw==",
   "success": true,
   "projectFilePath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.iOS\\YoutubeRepoTwo.iOS.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "C:\\Users\\brian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Users\\brian\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+    "C:\\Users\\brian\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
   ],
   "logs": []
 }

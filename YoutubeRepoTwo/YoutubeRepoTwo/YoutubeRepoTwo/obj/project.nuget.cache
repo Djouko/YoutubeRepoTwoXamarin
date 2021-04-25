@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L8SvH4jx3QfxAbuhKxT9F7ZsOFKoOQRyNLPGkI50+1mUo9DRZm2BfIhlKen0N1AjmC17+mVRKzRTFNnc+lNkHw==",
+  "dgSpecHash": "lKhfVwF/Ol4rbkGaXLUD/RYKcu33ds6cpHc3GoVs4IHsxCZucfKzevnl0eNGb4439vs6VWuzFEeD8J3WHvEDbw==",
   "success": true,
   "projectFilePath": "C:\\XFProject\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo\\YoutubeRepoTwo.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\brian\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Users\\brian\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+    "C:\\Users\\brian\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
   ],
   "logs": [
     {

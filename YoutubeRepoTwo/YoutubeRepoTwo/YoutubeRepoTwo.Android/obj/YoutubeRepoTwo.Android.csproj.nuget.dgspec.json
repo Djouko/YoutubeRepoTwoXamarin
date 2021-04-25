@@ -50,13 +50,21 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Refractored.GifImageView": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.6.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1821, )"
+              "version": "[4.8.0.1269, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -134,7 +142,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1821, )"
+              "version": "[4.8.0.1269, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

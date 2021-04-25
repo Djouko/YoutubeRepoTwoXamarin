@@ -1,0 +1,1 @@
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><com.felipecsl.gifimageview.library.GifImageView android:id="@+id/gifImageView" android:scaleType="fitCenter" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#fff" /></RelativeLayout>
